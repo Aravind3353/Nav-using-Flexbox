@@ -1,0 +1,23 @@
+
+*{
+    margin:12px;
+    padding: 10px;
+    text-align: center;
+    border-radius: 20px;
+   }
+#one{
+    background-color: rgb(50, 126, 50);
+    color: white;
+   }
+   #two{
+    background-color:rgb(190, 44, 44);
+    color: white;
+   }
+   #three{
+    background-color:rgb(113, 38, 150);
+    color:white;
+   }
+   #four{
+    background-color:rgb(19, 124, 230);
+    color: white;
+   }
